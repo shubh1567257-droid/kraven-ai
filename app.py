@@ -225,6 +225,7 @@ HTML = r"""
 <!doctype html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="rD1LwHX0H1jwJsxMVJQR7Av9yQD5Fkw9qjyaO-5ieEQ" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#111315">
